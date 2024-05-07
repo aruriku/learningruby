@@ -1,1 +1,2 @@
-.direnv
+.direnv/flake-inputs
+.direnv/flake-profile-*
